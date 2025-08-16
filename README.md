@@ -1,2 +1,1 @@
-# CodeAlpha_Hangman-Game
-Hangman Game project for the CodeAlpha Python Programming Internships, A text-based word guessing game built using Python lists, strings, conditionals and loops.
+This repository is part of my Python Programming Internship at CodeAlpha. During this internship, I worked on different Python projects such as Hangman Game, Stock Portfolio Tracker and a Basic Chatbot. These projects helped me practice Python fundamentals like loops, functions, lists, dictionaries, file handling, and also explore automation and real-world problem solving. The internship gave me hands-on experience to improve coding skills and build practical applications in Python.
